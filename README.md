@@ -35,8 +35,8 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 **Demo:**
 
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/raw/master/images/homekid__iaq_mockup.JPG" width="550"/> </br>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/raw/master/images/Image_1.png" width="550"/> </br></br></br>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Paradox-Alarm-System/raw/master/images/paradox_demo.PNG" width="700"/> </br>
+</br>
 
 
 This project uses the Apple HomeKit accessory server library [ESP-HomeKit](https://github.com/maximkulkin/esp-homekit) from [@MaximKulkin](https://github.com/maximkulkin) for [ESP-OPEN-RTOS](https://github.com/SuperHouse/esp-open-rtos).<br/>
