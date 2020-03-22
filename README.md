@@ -25,7 +25,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Away Arm for Paradox Security Systems
 * Alarm notifications _(via HomeKit)_
 * Low Battery notification (_backup battery faillure)_
-~~* Tampered state~~
+* ~~Tampered state~~
 * Custom Setup Page _(with encryption)_
 * Custom PCB for connecting ESP8266 to Paradox control panel _(12V serial)_
 * Reset button
