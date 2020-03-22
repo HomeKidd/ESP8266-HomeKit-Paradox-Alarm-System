@@ -23,19 +23,19 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Disarming Paradox Security Systems
 * Night Arm for Paradox Security Systems
 * Away Arm for Paradox Security Systems
-* Secutiry System Alarm notifications _(via HomeKit)_
-* Low Battery notification
-* Fault detection
+* Alarm notifications _(via HomeKit)_
+* Low Battery notification (_backup battery faillure)_
+~~* Tampered state~~
+* Custom Setup Page _(with encryption)_
 * Custom PCB for connecting ESP8266 to Paradox control panel _(12V serial)_
-* Reset button 
+* Reset button
 
 **Zones and Motion/Door sensers are not supported due to ESP8266 isn't powerful to handle 32 accessories at once!!!**
 
 
-
 **Demo:**
 
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Paradox-Alarm-System/raw/master/images/paradox_demo.PNG" width="700"/> </br>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Paradox-Alarm-System/raw/master/images/paradox_demo.PNG" width="650"/> </br>
 </br>
 
 
