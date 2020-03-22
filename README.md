@@ -14,7 +14,7 @@ ESP8266  HomeKit server for Paradox Alarm Systems
 
 # Still in development, the first release is just an "empty" HomeKit Security System accessory!!!
 
-For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Paradox-Alarm-System/wiki/Build-Instructions) Wiki page!<br/><br/>
+# For More information and Supported Devices please read the [Wiki page](https://github.com/HomeKidd/ESP8266-HomeKit-Paradox-Alarm-System/wiki/Build-Instructions)!
 
 **Basic information**
 
